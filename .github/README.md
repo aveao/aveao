@@ -1,4 +1,4 @@
-# Welcome to my personal corner of Github
+# Welcome to my personal corner of GitHub
 
 All my actively developed projects are over at https://gitlab.com/a, so you should probably check that out instead.
 
